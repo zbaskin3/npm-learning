@@ -11,5 +11,13 @@
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zbaskin3/npm-learning.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zbaskin3/npm-learning/issues"
+  },
+  "homepage": "https://github.com/zbaskin3/npm-learning#readme"
 }
